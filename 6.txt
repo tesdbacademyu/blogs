@@ -1,0 +1,23 @@
+1)select name,job,sal from emp whose dept,dname is sales?
+
+2)list out the names who hiredate on apr and belongs dallas(location);
+3)list out the sal  and comm by dept wise
+
+4)create a duplicate table emp1 from emp and add a column name Bonus then update the bonus with  adding   of the salary
+eg.
+new york 10% update
+dallas 20 % update
+chicago 30% update
+boston 40% update
+
+5.create a duplicate table emp2 from emp and give me below commands.
+->insert into emp2
+->select * from emp;
+->delete  all the duplicate records
+->print nth and salary
+->print name and location of the person who has 2nd max salary
+->list out the ename and job and deptname whose the top 5 salary
+
+6.which emp has the highest age?
+7.print the job and location whose job greater than 5000
+8.print the smith data two times
